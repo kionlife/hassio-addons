@@ -3,7 +3,7 @@ version: 1.1.0
 slug: snowboy
 name: snowboy
 description: snowboy wake word detection using the Wyoming protocol
-url: https://github.com/rhasspy/hassio-addons/tree/master/snowboy
+url: https://github.com/kionlife/hassio-addons/tree/master/snowboy
 arch:
   - amd64
   - aarch64
