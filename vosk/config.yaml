@@ -23,7 +23,7 @@ schema:
   correct_sentences: float
   limit_sentences: bool
   preload_language: |
-    list(br|ca|cs|de|en|eo|es|fa|fr|hi|it|ja|ko|kz|nl|pl|pt|ru|sv|tl|tr|uz|vi|zh)
+    list(br|ca|cs|de|en|eo|es|fa|fr|hi|it|ja|ko|kz|nl|pl|pt|ru|sv|tl|tr|uk|uz|vi|zh)
   allow_unknown: bool
   debug_logging: bool
 ports:
