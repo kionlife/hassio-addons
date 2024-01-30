@@ -3,7 +3,7 @@ version: 1.5.1
 slug: vosk
 name: vosk
 description: vosk using the Wyoming protocol
-url: https://github.com/rhasspy/hassio-addons/tree/master/vosk
+url: https://github.com/kionlife/hassio-addons/tree/master/vosk
 arch:
   - amd64
   - aarch64
