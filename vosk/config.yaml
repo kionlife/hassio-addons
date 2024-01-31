@@ -1,5 +1,5 @@
 ---
-version: 1.5.1
+version: 1.5.1.1
 slug: vosk
 name: vosk
 description: vosk using the Wyoming protocol
@@ -16,7 +16,7 @@ map:
 options:
   correct_sentences: 0.0
   limit_sentences: false
-  preload_language: en
+  preload_language: uk
   allow_unknown: false
   debug_logging: false
 schema:
